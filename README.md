@@ -7,3 +7,4 @@ Primul meu repo modificat  s s
 - git commit -m'nume task'
 - git push
 - git restore
+- git good boyyyyyyyyyyyyyyyyyyyyyyyy
